@@ -1,0 +1,199 @@
+﻿/* About */
+h1,h2,h3,h4,h5,h6,span {
+	font-family: Segoe UI;
+	font-weight: normal;
+}
+
+h1 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px 10px;
+	font-size: 36px;
+}
+
+h2 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-size: 26pt;
+}
+
+h3 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-size: 15pt;
+}
+
+body {
+	font: 16px Segoe UI;
+	font-weight: normal;
+	border: none;
+	margin: 0px auto;
+	padding: 0px;
+	background: url('../images/bg.png') repeat-x;
+	background-position: top;
+}
+
+#container {
+	border-top: 8px solid #000;
+	background: #fff;
+	margin: 0px auto;
+	padding: 5px 0px;
+	width: 850px;
+}
+
+#title {
+	margin-left: 20px;
+	padding: 5px;
+}
+
+#content {
+	top: 20px;
+	display: block;
+	position: relative;
+	height: auto;
+}
+
+#content img {
+	float: left;
+	border: none;
+	margin: 0px;
+}
+
+a:link {
+	color: #09f;
+}
+
+a:hover {
+	color: #f90;
+}
+
+a:visited {
+	color: #777;
+}
+
+a#color0 {
+	background: #4f81bd;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 25px;
+}
+
+a#color0:hover {
+	background: #a8c0de;
+}
+
+a#color1 {
+	background: #aad629;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 175px;
+}
+
+a#color1:hover {
+	background: #d5eb95;
+}
+
+a#color2 {
+	background: #f79646;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 325px;
+	
+}
+
+a#color2:hover {
+	background: #fbcba3;
+}
+
+a#color3 {
+	background: #d94a47;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 475px;
+	
+}
+
+a#color3:hover {
+	background: #eca5a4;
+}
+
+a#color4 {
+	background: rgba(141,66,198,100);
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 625px;	
+}
+
+a#color4:hover {
+	background: #c6a1e3;
+}
+
+#leftcol {
+	margin-left: 15px;
+	width: 185px;
+	float: left;
+	line-height: 2;
+	float: left;
+	padding-left: 25px;
+}
+
+#main {
+	padding: 0px 30px;
+	margin: 0px;
+	border: 0px;
+}
+
+#clear {
+	clear: both;
+	height: 20px;
+}
+
+#nav {
+	position: relative;
+	display: block;
+	margin-left: 35px;
+	padding: 0px 5px;
+	height: 130px;
+}
+
+#links {
+	position: absolute;
+	right: 650px;
+	text-align: right;
+	float: left;
+}
+
+#footer {
+	background: #000;
+	padding: 20px 0px 0px 0px;
+	height: 100px;
+	text-align: center;
+	color: #fff;
+}
+
+li {
+	font-weight: bold;
+	font-size: 15pt;
+}
+
+li p {
+	font-weight: normal;
+	font-size: 16px;
+}
+
+#main p {
+	float: right;
+	width: 600px;
+}
+
+#main img {
+	float: left;
+	padding: 0px 15px 0px 0px;
+}

@@ -1,0 +1,184 @@
+﻿h1,h2,h3,h4,h5,h6,span {
+	font-family: Segoe UI;
+	font-weight: normal;
+}
+
+h1 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px 10px;
+	font-size: 36px;
+}
+
+h2 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-size: 26pt;
+}
+
+h3 {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-size: 15pt;
+}
+
+body {
+	font: 16px Segoe UI;
+	font-weight: normal;
+	border: none;
+	margin: 0px auto;
+	padding: 0px;
+	background: url('../images/bg.png') repeat-x;
+	background-position: top;
+}
+
+#container {
+	border-top: 8px solid #000;
+	background: #fff;
+	margin: 0px auto;
+	padding: 5px 0px;
+	width: 850px;
+}
+
+#title {
+	margin-left: 20px;
+	padding: 5px;
+}
+
+#content {
+	display: block;
+	position: relative;
+	margin-top: 15px;
+}
+
+a:link {
+	color: #09f;
+}
+
+a:hover {
+	color: #f90;
+}
+
+a:visited {
+	color: #777;
+}
+
+a#color0 {
+	background: #aad629;
+	width: 175px;
+	height: 125px;
+	position: absolute;
+	left: 0px;
+}
+
+a#color0:hover {
+	background: #d5eb95;
+}
+
+a#color1 {
+	background: #f79646;
+	width: 175px;
+	height: 125px;
+	position: absolute;
+	left: 200px;
+}
+
+a#color1:hover {
+	background: #d5eb95;
+}
+
+a#color2 {
+	background: #d94a47;
+	width: 175px;
+	height: 125px;
+	position: absolute;
+	left: 400px;
+}
+
+a#color2:hover {
+	background: #eca5a4;
+}
+
+a#color3 {
+	background: #8D42C6;
+	width: 175px;
+	height: 125px;
+	position: absolute;
+	left: 600px;
+}
+
+a#color3:hover {
+	background: #c6a1e3;
+}
+
+#main {
+	width: 850px;
+	margin: 0px auto;
+	border: 0px;
+}
+
+#clear {
+	clear: both;
+}
+
+#nav {
+	position: relative;
+	display: block;
+	margin-left: 35px;
+	padding: 0px 5px;
+	height: 130px;
+}
+
+#description {
+	padding: 0px 30px;
+}
+
+#footer {
+	background: #000;
+	padding: 20px 0px 0px 0px;
+	height: 100px;
+	text-align: center;
+	color: #fff;
+}
+
+a#part1 {
+	display: block;
+	width: 250px;
+	height: 150px;
+	border: none;
+	text-decoration: none;
+	background: url('../images/Page 1_r3_c2.png');
+}
+
+a#part1:hover {
+	background-position: -250px;
+}
+
+a#part2 {
+	display: block;
+	width: 250px;
+	height: 150px;
+	border: none;
+	text-decoration: none;
+	background: url('../images/Page 1_r2_c5.png');
+}
+
+a#part2:hover {
+	background-position: -250px;
+}
+
+a#part3 {
+	display: block;
+	width: 250px;
+	height: 150px;
+	border: none;
+	text-decoration: none;
+	background: url('../images/Page 1_r5_c1.png');
+}
+
+a#part3:hover {
+	background-position: -250px;
+}
+
